@@ -1,0 +1,71 @@
+{
+    "late_threshold": 176.82,
+    "overall_mean_time": 124.90564484784746,
+    "overall_std_time": 51.915451300919194,
+    "regression": {
+        "linear_regression": {
+            "mae": 25.45,
+            "rmse": 32.29,
+            "r2": 0.6138
+        },
+        "random_forest": {
+            "mae": 17.07,
+            "rmse": 22.03,
+            "r2": 0.8201
+        }
+    },
+    "classification": {
+        "logistic_regression": {
+            "accuracy": 0.8756
+        },
+        "random_forest": {
+            "accuracy": 0.8826,
+            "precision": 0.5956,
+            "recall": 0.8842,
+            "f1_score": 0.7118,
+            "roc_auc": 0.9526
+        }
+    },
+    "top_features": [
+        {
+            "Feature": "Category_Grocery",
+            "Importance": 0.2642488226692957
+        },
+        {
+            "Feature": "Agent_Rating",
+            "Importance": 0.18267206462378244
+        },
+        {
+            "Feature": "Traffic_Low",
+            "Importance": 0.11223456784222134
+        },
+        {
+            "Feature": "Distance_KM",
+            "Importance": 0.1012704894019197
+        },
+        {
+            "Feature": "Agent_Age",
+            "Importance": 0.09246424952519618
+        },
+        {
+            "Feature": "Weather_Sunny",
+            "Importance": 0.06396866680588376
+        },
+        {
+            "Feature": "Weather_Fog",
+            "Importance": 0.03533620711033221
+        },
+        {
+            "Feature": "Vehicle_Motorcycle",
+            "Importance": 0.028354779335692318
+        },
+        {
+            "Feature": "Weather_Windy",
+            "Importance": 0.022682761783463352
+        },
+        {
+            "Feature": "Weather_Sandstorms",
+            "Importance": 0.021570462321667334
+        }
+    ]
+}
