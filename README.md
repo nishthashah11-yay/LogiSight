@@ -1,8 +1,8 @@
 # 🚚 LogiSight Analytics: Last-Mile Delivery Decision Dashboard
 ### Formative Assessment-2 (FA-2) | Mathematics for AI-II
 **CRS:** Artificial Intelligence  
-**Student Name:** Mann Paresh Patel  
-**WACP Registration Number:** 1000428  
+**Student Name:** Nishtha Priyesh Shah  
+**WACP Registration Number:** 1000436  
 **Institution:** Aspee Nutan Academy  
 **Scenario:** LogiSight Analytics Pvt. Ltd.  
 
