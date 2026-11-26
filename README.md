@@ -176,4 +176,4 @@ To provide logistics managers with actionable foresight, a machine learning pipe
 | **TOTAL** | **20** | **Distinguished Level** | **20 / 20** | **100%** 🎯 |
 
 ---
-*Created by Mann Paresh Patel (WACP Reg No: 1000428) for Mathematics for AI-II Formative Assessment-2.*
+*Created by Nishtha Priyesh Shah (WACP Reg No: 1000436) for Mathematics for AI-II Formative Assessment-2.*
